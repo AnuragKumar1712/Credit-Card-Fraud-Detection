@@ -76,6 +76,6 @@ A highly accurate **Random Forest Classifier** model was developed and evaluated
 ## Author ✍️
 **Anurag Kumar**  
 _Data Analyst & Full-Stack Developer_  
-🔗 [LinkedIn Profile]((https://www.linkedin.com/in/anuragkumar1702/))
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/anuragkumar1702/)
 
 ---
