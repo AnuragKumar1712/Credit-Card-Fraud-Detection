@@ -54,7 +54,7 @@ A highly accurate **Random Forest Classifier** model was developed and evaluated
    git clone https://github.com/AnuragKumar1712/Credit-Card-Fraud-Detection.git
    ```
 2. Open `Jupyter Notebook` to explore the model development (`.ipynb` file).
-3. Open the provided `.pbix` file in **Power BI Desktop** to view and customize the dashboard.
+3. Open the provided `.pbix` file by visiting [Dashboard](https://drive.google.com/drive/folders/1ih-9SxKNt22gsuFnMX9ShikPQISRUMcD?usp=drive_link) in **Power BI Desktop** to view and customize the dashboard.
 
 ---
 
